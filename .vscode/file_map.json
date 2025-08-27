@@ -1,0 +1,42 @@
+{
+  "copy_text.dart": {
+    "old_identifier_name": "copyText",
+    "new_identifier_name": "copyText",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "26285597902d83675da3773bf4d39c7491ec66873fbbc611b17b5cc2c22dd396",
+    "original_checksum": "26285597902d83675da3773bf4d39c7491ec66873fbbc611b17b5cc2c22dd396"
+  },
+  "liked_by.dart": {
+    "old_identifier_name": "LikedBy",
+    "new_identifier_name": "LikedBy",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "3e13fc3ab70b63f7ca311b9054a1458a75b9fb31b83a87abb95953b38b451de6",
+    "original_checksum": "3e13fc3ab70b63f7ca311b9054a1458a75b9fb31b83a87abb95953b38b451de6"
+  },
+  "notifications.dart": {
+    "old_identifier_name": "Notifications",
+    "new_identifier_name": "Notifications",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "5d814e82cec56bf322b206152f825a5d04f911212846f4639515923181cde895",
+    "original_checksum": "5d814e82cec56bf322b206152f825a5d04f911212846f4639515923181cde895"
+  },
+  "custom_functions.dart": {
+    "old_identifier_name": "CustomFunctions",
+    "new_identifier_name": "CustomFunctions",
+    "type": "F",
+    "is_deleted": false,
+    "current_checksum": "27e19250ebf75d8ee17b269da7694dc673bb9976e1e5af6a468a317066952d80",
+    "original_checksum": "27e19250ebf75d8ee17b269da7694dc673bb9976e1e5af6a468a317066952d80"
+  },
+  "pubspec.yaml": {
+    "old_identifier_name": "pubspec.yaml",
+    "new_identifier_name": "pubspec.yaml",
+    "type": "D",
+    "is_deleted": false,
+    "current_checksum": "efd4832eaadf91a56d9ae94a34084dce72880e265c4ad9e0952d1001966480fe",
+    "original_checksum": "efd4832eaadf91a56d9ae94a34084dce72880e265c4ad9e0952d1001966480fe"
+  }
+}
