@@ -18,6 +18,7 @@
         "csslib",
         "csv",
         "cupertino_icons",
+        "dash_chat",
         "dropdown_button2",
         "easy_debounce",
         "equatable",
@@ -37,6 +38,7 @@
         "flutter",
         "flutter_animate",
         "flutter_cache_manager",
+        "flutter_credit_card",
         "flutter_localizations",
         "flutter_plugin_android_lifecycle",
         "flutter_rating_bar",
@@ -958,6 +960,15 @@
       ]
     },
     {
+      "name": "flutter_credit_card",
+      "version": "4.0.1",
+      "dependencies": [
+        "flutter",
+        "flutter_web_plugins",
+        "plugin_platform_interface"
+      ]
+    },
+    {
       "name": "flutter_cache_manager",
       "version": "3.4.1",
       "dependencies": [
@@ -1159,6 +1170,17 @@
       "dependencies": [
         "flutter",
         "meta"
+      ]
+    },
+    {
+      "name": "dash_chat",
+      "version": "1.1.16",
+      "dependencies": [
+        "flutter",
+        "flutter_parsed_text",
+        "intl",
+        "transparent_image",
+        "uuid"
       ]
     },
     {
@@ -1699,6 +1721,18 @@
         "firebase_core_platform_interface",
         "flutter",
         "meta"
+      ]
+    },
+    {
+      "name": "transparent_image",
+      "version": "2.0.1",
+      "dependencies": []
+    },
+    {
+      "name": "flutter_parsed_text",
+      "version": "2.2.1",
+      "dependencies": [
+        "flutter"
       ]
     },
     {

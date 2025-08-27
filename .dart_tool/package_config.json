@@ -134,6 +134,12 @@
       "languageVersion": "3.1"
     },
     {
+      "name": "dash_chat",
+      "rootUri": "file:///C:/Users/santd/AppData/Local/Pub/Cache/git/flutterflow_dash_chat-e899a9ff2a72d915c82f056dbac15ab9c38110b8/",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "dropdown_button2",
       "rootUri": "file:///C:/Users/santd/AppData/Local/Pub/Cache/hosted/pub.dev/dropdown_button2-2.3.9",
       "packageUri": "lib/",
@@ -296,6 +302,12 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "flutter_credit_card",
+      "rootUri": "file:///C:/Users/santd/AppData/Local/Pub/Cache/git/flutter_credit_card-0f55b11a7aa9651e14ec8491c105b2304a12c669/",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
       "name": "flutter_launcher_icons",
       "rootUri": "file:///C:/Users/santd/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_launcher_icons-0.13.1",
       "packageUri": "lib/",
@@ -312,6 +324,12 @@
       "rootUri": "file:///c:/Users/santd/OneDrive/%C3%81rea%20de%20Trabalho/CANNADROP/ff_flutter_sdk/flutter/packages/flutter_localizations",
       "packageUri": "lib/",
       "languageVersion": "3.7"
+    },
+    {
+      "name": "flutter_parsed_text",
+      "rootUri": "file:///C:/Users/santd/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_parsed_text-2.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "flutter_plugin_android_lifecycle",
@@ -946,6 +964,12 @@
     {
       "name": "timeago",
       "rootUri": "file:///C:/Users/santd/AppData/Local/Pub/Cache/hosted/pub.dev/timeago-3.7.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "transparent_image",
+      "rootUri": "file:///C:/Users/santd/AppData/Local/Pub/Cache/hosted/pub.dev/transparent_image-2.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
