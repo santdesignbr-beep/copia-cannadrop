@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>940240594866-8kc3md68pblhmpb0paqop32j4b45j5gm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.940240594866-8kc3md68pblhmpb0paqop32j4b45j5gm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>940240594866-illo5pdpnhi9dujdog011qv5m1oo9d13.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCUb2di2g_E8Xqu69sDeVr2ZzE27algGI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>940240594866</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cannadrop.cannadropapp</string>
+	<key>PROJECT_ID</key>
+	<string>cannadrop-3e8ce</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cannadrop-3e8ce.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:940240594866:ios:6c7edd1b99f6e59f54e6ab</string>
+</dict>
+</plist>

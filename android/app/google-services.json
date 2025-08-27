@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "940240594866",
+    "project_id": "cannadrop-3e8ce",
+    "storage_bucket": "cannadrop-3e8ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940240594866:android:6ffc8cfb01baa88654e6ab",
+        "android_client_info": {
+          "package_name": "com.cannadrop.cannadropapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940240594866-illo5pdpnhi9dujdog011qv5m1oo9d13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cannadrop.cannadropapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "940240594866-uqm7v3qsj5e0bmbnl8vkopqplcv16eev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXxKa3su08UMKlTvWLz5NGy7r4w98Bqtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940240594866-uqm7v3qsj5e0bmbnl8vkopqplcv16eev.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "940240594866-8kc3md68pblhmpb0paqop32j4b45j5gm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cannadrop.cannadropapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
